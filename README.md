@@ -15,6 +15,7 @@ Technologies Used
 🔹 JSON Dataset (Intents) – Used for chatbot training
 
 Project Workflow
+
 ✅ Data Preparation – Collected medical-related intents dataset. Model Training – Built and trained a deep learning model for intent classification.
 ✅ Chatbot Integration – Developed a Flask-based API for interaction.
 ✅ Testing & Deployment – Evaluated chatbot responses and deployed as a web service.
